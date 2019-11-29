@@ -1,0 +1,6 @@
+flask_mysqldb
+Flask
+Flask_WTF
+passlib
+pandas
+numpy
